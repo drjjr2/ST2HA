@@ -44,7 +44,8 @@ Rachio sprinkler control<br>
 3 Logitech Harmony Hubs<br>
 Netatmo weather station<br>
 Bond Home to control some ceiling fans<br>
-Jandy iAqualink for the pool</p>
+Jandy iAqualink for the pool<br>
+Hunter Douglas Powerview for blinds</p>
 </blockquote>
 <p>And a partridge in a pear tree.</p>
 <p>All of this can be integrated into Home Assistant. Some of it was partially integrated into SmartThings. But mostly I used SmartThings as a conduit to Alexa.</p>
