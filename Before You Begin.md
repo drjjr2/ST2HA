@@ -9,4 +9,6 @@
 This isn’t to say that it can’t be done with HA. It’s all open source and, chances are, someone has already figured out how to fix it. But the more you need to find the custom workarounds, the more you will be diving into the architecture of Home Assistant and its various components. Which, for me, is fun. But if your significant other is complaining that the kitchen lights don’t work, well…it might not be so fun.</p>
 <p>Home Assistant and its many contributors are constantly tweaking and changing things and they have done their best to make things like adding Z-Wave devices seamless. But there’s always a catch.</p>
 <p>The bottom line is: depending on your setup, you may have to learn how to grab the latest Z-Wave config files from somewhere and how to find out where to put them on your installation to make things work the way they “used to.”</p>
+<p>There are a ton of resources out there. The <a href="https://www.reddit.com/r/homeassistant/">r/homeassistant</a> subreddit has been super helpful for some of the questions I’ve had and they are very patient.</p>
+<p><strong>One caveat:</strong> pay attention to the dates of anything that you are looking at. Open source applications are literally living entities and they change often. I have stumbled across many articles that were outdated and no longer applied for my setup.</p>
 
