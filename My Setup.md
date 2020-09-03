@@ -21,7 +21,9 @@
 1 Inovelli NZW30 on/off switch<br>
 1 GE 14287 fan control switch<br>
 1 Inovelli NZW31 dimmer<br>
-1 ZSE19 S2 Multisiren</p>
+1 ZSE19 S2 Multisiren<br>
+12 Zigbee Samsung Multipurpose Sensors (for the windows)<br>
+2 Centralite plugs (used for Zigbee repeaters)</p>
 </blockquote>
 <p>I also have a Philips Hue hub with:</p>
 <blockquote>
