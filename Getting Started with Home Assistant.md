@@ -3,7 +3,5 @@
 
 ---
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+<h2 id="enough-chitchat-lets-get-started">Enough ChitChat, Let’s Get Started</h2>
 
